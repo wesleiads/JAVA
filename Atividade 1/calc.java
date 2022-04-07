@@ -40,7 +40,7 @@ public class calc {
         int b = entrada.nextInt();
 
         if (n == 1) {
-            System.out.println("A soma dos números é igual a: " + soma(a, b));
+            System.out.println("A soma dos números %d é igual a: " + soma(a, b));
         }
         if (n == 2) {
             System.out.println("A Subtração dos números é igual a: " + subtracao(a, b));
