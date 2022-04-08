@@ -1,5 +1,3 @@
-package Integer_Number;
-
 import java.util.Scanner;
 
 public class fibonaccicalc {

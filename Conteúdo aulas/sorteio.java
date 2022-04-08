@@ -10,7 +10,7 @@ public class sorteio {
         int soma = 0;  
         int maior =0;//pode inicilizar com 1 ou 0
         int menor = 101;//ou 100
-        while (c <= 1000){//laço de interação
+        while (c <= 10){//laço de interação
             //ler o numero
             c++; //c += 1 ou c = c + 1
             int n = 1 + gerador.nextInt(100);
