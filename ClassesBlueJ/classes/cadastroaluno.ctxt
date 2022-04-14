@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=cadastroaluno
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ cadastroaluno\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=RGM\ nome\ anoIngresso
+comment1.target=cadastroaluno(int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ cadastroaluno\r\n
+comment2.params=
+comment2.target=int\ getRGM()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=java.lang.String\ getnome()
+comment4.params=
+comment4.target=int\ getIngresso()
+comment5.params=RGM
+comment5.target=void\ setRGM(int)
+comment6.params=nome
+comment6.target=void\ setnome(java.lang.String)
+comment7.params=anoIngresso
+comment7.target=void\ setanoIngresso(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
